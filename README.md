@@ -1,6 +1,8 @@
 # Bevy Attendee Importer
 
-CLI to import attendees from CSV or Google Sheet into Bevy via Playwright.
+Import attendees from CSV or Google Sheet into Bevy via Playwright.
+
+**Web UI is the primary interface** — upload your event URL and CSV file in the browser. The CLI is available for advanced users who prefer command-line workflows.
 
 ## Prerequisites
 - Node.js 18+
@@ -27,26 +29,45 @@ CLI to import attendees from CSV or Google Sheet into Bevy via Playwright.
    This will also install Playwright browsers on first run if needed.
 
 ## Usage
-Build and run:
+
+### Web UI (recommended)
+
+Start the web server and open the importer in your browser:
+
+```bash
+npm run web
+```
+
+Then open **http://localhost:3000**. Enter your event URL and upload a CSV file. Credentials from `.env` are used automatically.
+
+For development (no build step):
+
+```bash
+npm run web-dev
+```
+
+### CLI (advanced)
+
+For scriptable or command-line workflows:
 
 ```bash
 npm run build
 node dist/index.js --event "https://bevy.com/...event.../attendees" --csv attendees.csv
 ```
 
-Or with Google Sheet:
+With Google Sheet:
 
 ```bash
 node dist/index.js --event "https://bevy.com/...event.../attendees" --sheet "https://docs.google.com/spreadsheets/d/.../edit#gid=0"
 ```
 
-Dev mode:
+Dev mode (runs TypeScript directly):
 
 ```bash
 npm run dev -- --event "<event url>" --csv attendees.csv
 ```
 
-Options:
+CLI options:
 - `--event` Bevy event URL (required if not set in `.env`)
 - `--csv` Path to CSV (with headers: First Name, Last Name, Email, Checked In)
 - `--sheet` Google Sheet URL (public or accessible)

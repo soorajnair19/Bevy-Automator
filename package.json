@@ -6,7 +6,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc",
     "start": "node dist/index.js",
-    "dev": "ts-node src/index.ts",
+    "dev": "node --loader ts-node/esm src/index.ts",
     "import": "node dist/index.js",
     "web": "npm run build && node dist/index.js --web",
     "web-dev": "node --loader ts-node/esm src/index.ts --web"
