@@ -56,7 +56,7 @@ app.get('/', (req, res) => {
             <div class="form-group">
                 <label for="eventUrl">Event URL *</label>
                 <input type="url" id="eventUrl" name="eventUrl" required 
-                       placeholder="https://friends.figma.com/dashboard/mumbai/events/4199/registrations">
+                       placeholder="https://friends.figma.com/accounts/dashboard/#/chapter-220/event-4621/manage">
                 <div class="help-text">Full URL to the Bevy event registrations page</div>
             </div>
         </div>
