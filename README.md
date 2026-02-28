@@ -6,13 +6,23 @@ Import attendees from CSV or Google Sheet into Bevy via Playwright.
 
 ## Prerequisites
 - Node.js 18+
-- Playwright browsers installed (done on first install)
 
 ## Setup
 
 1. **Clone the repo** (if you haven’t already).
 
-2. **Configure environment:**
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+
+3. **Install Playwright browsers** (required for the importer to run):
+   ```bash
+   npx playwright install
+   ```
+   This downloads Chromium (and optionally Firefox/WebKit). The first run may take a minute.
+
+4. **Configure environment:**
    ```bash
    cp .env.example .env
    ```
@@ -20,13 +30,7 @@ Import attendees from CSV or Google Sheet into Bevy via Playwright.
    - `BEVY_EMAIL` – your Bevy login email  
    - `BEVY_PASSWORD` – your Bevy password  
    - `BEVY_EVENT_URL` – (optional) default event attendees URL  
-   - `GOOGLE_SHEET_URL` – (optional) if using Google Sheets  
-
-3. **Install dependencies:**
-   ```bash
-   npm install
-   ```
-   This will also install Playwright browsers on first run if needed.
+   - `GOOGLE_SHEET_URL` – (optional) if using Google Sheets
 
 ## Usage
 
