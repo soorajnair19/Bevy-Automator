@@ -1,0 +1,782 @@
+[
+  {
+    "attendee": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "checkedIn": false,
+      "rowIndex": 4
+    },
+    "error": "Failed to add attendee: TimeoutError: page.waitForSelector: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('div[class*=\"modal\"]') to be hidden\u001b[22m\n\u001b[2m    15 × locator resolved to 2 elements. Proceeding with the first one: <div data-testid=\"sepiida-modal\" class=\"Modal-styles__modal_1bxzd Modal-styles__small_1bxzd Modal-styles__middle_1bxzd\">…</div>\u001b[22m\n"
+  },
+  {
+    "attendee": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "checkedIn": false,
+      "rowIndex": 7
+    },
+    "error": "Failed to add attendee: Error: page.waitForSelector: Target page, context or browser has been closed\nCall log:\n\u001b[2m  - waiting for locator('div[class*=\"modal\"]') to be hidden\u001b[22m\n\u001b[2m    6 × locator resolved to 2 elements. Proceeding with the first one: <div data-testid=\"sepiida-modal\" class=\"Modal-styles__modal_1bxzd Modal-styles__small_1bxzd Modal-styles__middle_1bxzd\">…</div>\u001b[22m\n"
+  },
+  {
+    "attendee": {
+      "firstName": "Anushka",
+      "lastName": "Vyas",
+      "email": "workwanushka@gmail.com",
+      "checkedIn": false,
+      "rowIndex": 8
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "Atharv",
+      "lastName": "Khatri",
+      "email": "atharvkhatri2005@gmail.com",
+      "checkedIn": false,
+      "rowIndex": 9
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "checkedIn": false,
+      "rowIndex": 10
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "checkedIn": false,
+      "rowIndex": 11
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "checkedIn": false,
+      "rowIndex": 12
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "checkedIn": false,
+      "rowIndex": 13
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "checkedIn": false,
+      "rowIndex": 14
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "checkedIn": false,
+      "rowIndex": 15
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "Atul",
+      "lastName": "Chembottiyil",
+      "email": "atul1997.v@gmail.com",
+      "checkedIn": false,
+      "rowIndex": 16
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "Bravish",
+      "lastName": "jadhav",
+      "email": "jbravish12@gmail.com",
+      "checkedIn": false,
+      "rowIndex": 17
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "checkedIn": false,
+      "rowIndex": 18
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "checkedIn": false,
+      "rowIndex": 19
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "checkedIn": false,
+      "rowIndex": 20
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "checkedIn": false,
+      "rowIndex": 21
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "Charmi",
+      "lastName": "Chhaya",
+      "email": "ux.charmi@gmail.com",
+      "checkedIn": false,
+      "rowIndex": 22
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "checkedIn": false,
+      "rowIndex": 23
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "Harsh",
+      "lastName": "Kothari",
+      "email": "work.harshk@gmail.com",
+      "checkedIn": false,
+      "rowIndex": 24
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "Hemantkumar",
+      "lastName": "Das",
+      "email": "dashemantk@gmail.com",
+      "checkedIn": false,
+      "rowIndex": 25
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "checkedIn": false,
+      "rowIndex": 26
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "checkedIn": false,
+      "rowIndex": 27
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "checkedIn": false,
+      "rowIndex": 28
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "checkedIn": false,
+      "rowIndex": 29
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "checkedIn": false,
+      "rowIndex": 30
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "checkedIn": false,
+      "rowIndex": 31
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "checkedIn": false,
+      "rowIndex": 32
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "checkedIn": false,
+      "rowIndex": 33
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "Kaushal",
+      "lastName": "Bhingare",
+      "email": "kaushalbhingare2@gmail.com",
+      "checkedIn": false,
+      "rowIndex": 34
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "checkedIn": false,
+      "rowIndex": 35
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "checkedIn": false,
+      "rowIndex": 36
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "checkedIn": false,
+      "rowIndex": 37
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "checkedIn": false,
+      "rowIndex": 38
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "Krish",
+      "lastName": "Wawa",
+      "email": "krishh.w2006@gmail.com",
+      "checkedIn": false,
+      "rowIndex": 39
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "Kunal",
+      "lastName": "Thakkar",
+      "email": "thakkar.km@somaiya.edu",
+      "checkedIn": false,
+      "rowIndex": 40
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "checkedIn": false,
+      "rowIndex": 41
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "checkedIn": false,
+      "rowIndex": 42
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "Namrata",
+      "lastName": "Jadhav",
+      "email": "namratajadhav881@gmail.com",
+      "checkedIn": false,
+      "rowIndex": 43
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "checkedIn": false,
+      "rowIndex": 44
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "checkedIn": false,
+      "rowIndex": 45
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "checkedIn": false,
+      "rowIndex": 46
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "Nidhi",
+      "lastName": "Tarware",
+      "email": "nidhi04here@gmail.com",
+      "checkedIn": false,
+      "rowIndex": 47
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "Niranjan",
+      "lastName": "Shirke",
+      "email": "designedbyniranjan@gmail.com",
+      "checkedIn": false,
+      "rowIndex": 48
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "checkedIn": false,
+      "rowIndex": 49
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "Piyul",
+      "lastName": "Patel",
+      "email": "piyul.patel@gmail.com",
+      "checkedIn": false,
+      "rowIndex": 50
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "checkedIn": false,
+      "rowIndex": 51
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "checkedIn": false,
+      "rowIndex": 52
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "Pranav",
+      "lastName": "Khatal",
+      "email": "pranav7khatal@gmail.com",
+      "checkedIn": false,
+      "rowIndex": 53
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "checkedIn": false,
+      "rowIndex": 54
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "Priyanka",
+      "lastName": "Mane",
+      "email": "priyankamane.uxui@gmail.com",
+      "checkedIn": false,
+      "rowIndex": 55
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "checkedIn": false,
+      "rowIndex": 56
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "PUNIT",
+      "lastName": "MARU",
+      "email": "marupunit3@gmail.com",
+      "checkedIn": false,
+      "rowIndex": 57
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "checkedIn": false,
+      "rowIndex": 58
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "checkedIn": false,
+      "rowIndex": 59
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "Ravina",
+      "lastName": "Keni",
+      "email": "ravinakeni6798@gmail.com",
+      "checkedIn": false,
+      "rowIndex": 60
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "checkedIn": false,
+      "rowIndex": 61
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "Rishabh",
+      "lastName": "Singh",
+      "email": "rishabhsinghs90s@gmail.com",
+      "checkedIn": false,
+      "rowIndex": 62
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "Rohit",
+      "lastName": "Jawale",
+      "email": "rohitjawale766@gmail.com",
+      "checkedIn": false,
+      "rowIndex": 63
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "Sakshi",
+      "lastName": "Vichare",
+      "email": "sakshivichare02@gmail.com",
+      "checkedIn": false,
+      "rowIndex": 64
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "checkedIn": false,
+      "rowIndex": 65
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "checkedIn": false,
+      "rowIndex": 66
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "checkedIn": false,
+      "rowIndex": 67
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "Shruti",
+      "lastName": "Chavan",
+      "email": "shru.chavan1@gmail.com",
+      "checkedIn": false,
+      "rowIndex": 68
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "checkedIn": false,
+      "rowIndex": 69
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "Siddhant",
+      "lastName": "Giri",
+      "email": "sidgiri2000@gmail.com",
+      "checkedIn": false,
+      "rowIndex": 70
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "checkedIn": false,
+      "rowIndex": 71
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "Siddharth",
+      "lastName": "Mehta",
+      "email": "siddhaxrth@gmail.com",
+      "checkedIn": false,
+      "rowIndex": 72
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "Sneha",
+      "lastName": "Nair",
+      "email": "snehanair224@gmail.com",
+      "checkedIn": false,
+      "rowIndex": 73
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "checkedIn": false,
+      "rowIndex": 74
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "Sooraj",
+      "lastName": "Nair",
+      "email": "sooraj101096@gmail.com",
+      "checkedIn": false,
+      "rowIndex": 75
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "Srijan",
+      "lastName": "das",
+      "email": "srijandasuiux@gmail.com",
+      "checkedIn": false,
+      "rowIndex": 76
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "checkedIn": false,
+      "rowIndex": 77
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "checkedIn": false,
+      "rowIndex": 78
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "Tapan",
+      "lastName": "Vaghela",
+      "email": "tapanvaghela@gmail.com",
+      "checkedIn": false,
+      "rowIndex": 79
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "checkedIn": false,
+      "rowIndex": 80
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "Vibha",
+      "lastName": "Polkam",
+      "email": "vibhapolkam@gmail.com",
+      "checkedIn": false,
+      "rowIndex": 81
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "checkedIn": false,
+      "rowIndex": 82
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  },
+  {
+    "attendee": {
+      "firstName": "Yashica",
+      "lastName": "Bane",
+      "email": "yashicabane@gmail.com",
+      "checkedIn": false,
+      "rowIndex": 83
+    },
+    "error": "Failed to add attendee: Error: page.click: Target page, context or browser has been closed"
+  }
+]
